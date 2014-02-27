@@ -1,0 +1,37 @@
+{
+  "name": "grunt-coffeescript-concat",
+  "version": "0.0.1",
+  "description": "Grunt tasks for coffeescript-concat",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pkozlov/grunt-coffeescript-concat.git"
+  },
+  "keywords": [
+    "grunt",
+    "coffee",
+    "coffeescript",
+    "coffeescript-concat",
+    "grunttask",
+    "gruntplugin"
+  ],
+  "author": {
+    "name": "Pavel Kozlov",
+    "url": "http://pkozlov.ru/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pkozlov/grunt-coffeescript-concat/issues"
+  },
+  "homepage": "https://github.com/pkozlov/grunt-coffeescript-concat",
+  "dependencies": {
+    "coffeescript-concat": "~1.0.5"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.8.0"
+  }
+}
